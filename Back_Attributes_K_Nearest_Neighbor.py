@@ -21,7 +21,7 @@ import math
 #fix capitalizing
 #if getting the n_neighbors error, it's because X_train's value gets reset
 #when the variable name gets re-used later on  
-
+  
 
 
 print('start')
